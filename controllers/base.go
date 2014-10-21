@@ -2,7 +2,7 @@
 * @Author: souravray
 * @Date:   2014-10-20 16:36:25
 * @Last Modified by:   souravray
-* @Last Modified time: 2014-10-22 00:18:55
+* @Last Modified time: 2014-10-22 00:24:09
  */
 
 package controllers
@@ -49,14 +49,15 @@ func dispatchJSON(w http.ResponseWriter, response interface{}) {
 }
 
 func init() {
-	content, err := ioutil.ReadFile("config.json")
-	if err != nil {
-		panic(err)
-	}
-
 	// change for heroku deployment
 	conf.DbURI = os.Getenv("MONGO_URL")
 	conf.DbName = os.Getenv("MDB_NAME")
+
+	// for non heroku deployment
+	// content, err := ioutil.ReadFile("config.json")
+	// if err != nil {
+	// 	panic(err)
+	// }
 
 	// err = json.Unmarshal(content, &conf)
 	// if err != nil {
