@@ -14,7 +14,7 @@ gadgetWish
 #####gorilla
 --------------
      go get github.com/gorilla/mux
-     go get github.com/gorilla/sessions
+     go get github.com/gorilla/sessionsbe
 
 ###Running the App
 ####Bootstrapping
@@ -22,7 +22,7 @@ gadgetWish
 * Modify the local constant
   * dbURI
   *  dbname
-* Run bootstrap script like bellow
+* Run bootstrap script like below
 --------------
       cd app-path/bootstrap
       go run main.go
