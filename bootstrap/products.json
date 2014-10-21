@@ -1,0 +1,86 @@
+[
+	{
+		"name": "Lenovo Yoga 2 Tablet",
+		"img":"http://img6a.flixcart.com/image/tablet/g/e/r/lenovo-yoga-tablet-2-1050l-400x400-imaeyv7hjp9sdzbz.jpeg",
+		"description": "Lenovo presents a versatile tablet that adapts to you - the Lenovo Yoga 2. Running on Android KitKat, the Yoga 2 is ideal for those who enjoy multimedia, games and social networking.",
+		"price":"20,990",
+		"price_unit": "Rs"
+	},
+	{
+		"name": "WD Passport Ultra 2.5 inch 2 TB External Hard Drive",
+		"img":"http://img5a.flixcart.com/image/external-hard-drive/x/z/k/wd-passport-ultra-400x400-imadqgvgyh2tv9yv.jpeg",
+		"description": "WD provides a one-stop storage solution with this generous 1 TB Passport Ultra External Hard Disk that you can take with you wherever you go.",
+		"price": "8,120",
+		"price_unit": "Rs"
+	},
+	{
+		"name": "Verbatim Store'N'Go V3 USB 3.0 Drive",
+		"img":"http://img6a.flixcart.com/image/pendrive/utility-pendrive/w/e/h/verbatim-store-n-go-v3-usb-3-0-drive-400x400-imadz5xdjbfs4ajy.jpeg",
+		"description": "V3 offers a USB 3.0 interface which is up to 10 times faster than USB 2.0 (Theoretical Bus Speed), making it faster for transferring/saving larger file sizes of all types.",
+		"price": "4,299",
+		"price_unit": "Rs"
+	},
+	{
+		"name": "Smiledrive Portable Bluetooth Speaker",
+		"img":"http://img5a.flixcart.com/image/boom-box/f/j/e/smiledrive-high-quality-portable-bluetooth-speaker-jaw-dropping-sound-qua-400x400-imadppwek6rzsegf.jpeg",
+		"description": "High Quality Bluetooth Portable Speakers. Jaw dropping performance, music like you never heard before. MINI Beat box Bluetooth Speakers.",
+		"price": "1,749",
+		"price_unit": "Rs"
+	},
+	{
+		"name": "Spice Smart Pulse M-9010 Smartwatch",
+		"img":"http://img6a.flixcart.com/image/smartwatch/g/9/3/m-9010-spice-400x400-imaeyfzwg75sbfbh.jpeg",
+		"description": "Dual Sim, Digital Camera Support, Make and Receive Calls, GPRS Enabled",
+		"price": "3,999",
+		"price_unit": "Rs"
+	},
+	{
+		"name": "Garmin Vivofit Fitness Band",
+		"img":"http://img5a.flixcart.com/image/fitness-band/c/b/j/garmin-vivofit-400x400-imadyqazangmhmcf.jpeg",
+		"description": "Get your personal dietitian or health tracker by simply putting on the VivoFit band that keeps a tab on every step you walk, every pulse in your body and every calorie intake that you make through out the day.",
+		"price": "8,491",
+		"price_unit": "Rs"
+	},
+	{
+		"name": "Motorola Moto 360 Smartwatch",
+		"img":"http://img6a.flixcart.com/image/smartwatch/k/x/e/moto360-motorola-400x400-imadzyzhfvzxkmsk.jpeg",
+		"description": "A timeless masterpiece sporting a cutting-edge design, the Moto 360 is designed to tell you more than just the time. Powered by Android Wear™ and crafted using premium materials, the watch keeps you updated like no other.",
+		"price": "17,999",
+		"price_unit": "Rs"
+	},
+	{
+		"name": "Apple iPod iPod nano 16 GB",
+		"img":"http://img5a.flixcart.com/image/audioplayer/a/p/q/apple-ipod-nano-400x400-imaddzefck3umv5g.jpeg",
+		"description": "Apple's 7th Generation iPod Nano is cute, fun and capable of storing up to 16GB of your favorite music, movies and TV shows. In short, you can carry your iTunes library wherever you go as this player can store audiobooks, photos and podcasts as well.",
+		"price": "11,500",
+		"price_unit": "Rs"
+	},
+	{
+		"name": "Cooler Master 690 III CMS-693-GWN1 TP Side Panel Mid Tower Cabinet",
+		"img":"http://img6a.flixcart.com/image/cabinet/y/y/6/cooler-master-690-iii-cms-693-gwn1-tp-side-panel-400x400-imadzmc8gbfg8zph.jpeg",
+		"description": "CM 690 is legendary series on Cooler Master . Focused on better cooling and you can put long cards. do SLI/Cross fire.",
+		"price": "7,599",
+		"price_unit":"Rs"
+	},
+	{
+		"name": "Razer DeathStalker Essential Wired Keyboard",
+		"img":"http://img6a.flixcart.com/image/keyboard/h/k/7/razer-deathstalker-essential-400x400-imadq5mcxr5s2hyz.jpeg",
+		"description": "Chiclet style key caps, Razer Synapse 2.0 enabled, Dedicated Gaming mode, Fixed wrist rest. At Razer, the design element is crucial.",
+		"price": "3,429",
+		"price_unit":"Rs"
+	},
+	{
+		"name": "Microsoft Wired Controller for Windows",
+		"img":"http://img6a.flixcart.com/image/gamepad/h/9/n/microsoft-microsoft-wired-controller-wired-controller-400x400-imadbgfqpbntw9zp.jpeg",
+		"description": "This is the best controller for experiencing console-like experience on your pc. The difference you feel while playing the games is notable. And you can go on for 3-5 hrs without feeling tired as it is very ergonomic and very comfortable",
+		"price": "2,499",
+		"price_unit":"Rs"
+	},
+	{
+		"name": "Razer Kraken Analog Music and Gaming Wired Headset",
+		"img":"http://img5a.flixcart.com/image/headset/g/y/m/razer-kraken-400x400-imadm8bdzgrk98fh.jpeg",
+		"description": "40 mm Driver, Closed Headset, 32 Ohm Headset Impedance, Over-the-ear, Over-the-head",
+		"price": "4,009",
+		"price_unit":"Rs"
+	}
+]

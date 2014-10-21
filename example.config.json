@@ -1,0 +1,4 @@
+{
+	"db_uri": "mongog connection string",
+	"db_name": "db name"
+}
