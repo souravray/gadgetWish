@@ -39,4 +39,4 @@ Rename example.config.json to config.json and add mongodb connection string and 
 --------------
       go build server.go
       ./server
-* Now go to you favourite browser and check http://127.0.0.1:3000
+* Now go to you favourite browser and check http://127.0.0.1:8080
