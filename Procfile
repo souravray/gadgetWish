@@ -1,1 +1,1 @@
-server: gadgetWish
+web: gadgetWish
