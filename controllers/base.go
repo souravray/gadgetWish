@@ -2,7 +2,7 @@
 * @Author: souravray
 * @Date:   2014-10-20 16:36:25
 * @Last Modified by:   souravray
-* @Last Modified time: 2014-10-22 00:15:55
+* @Last Modified time: 2014-10-22 00:18:55
  */
 
 package controllers
@@ -14,6 +14,7 @@ import (
 	"html/template"
 	"io/ioutil"
 	"net/http"
+	"os"
 )
 
 type Config struct {
