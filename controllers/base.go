@@ -2,7 +2,7 @@
 * @Author: souravray
 * @Date:   2014-10-20 16:36:25
 * @Last Modified by:   souravray
-* @Last Modified time: 2014-10-21 09:47:03
+* @Last Modified time: 2014-10-22 00:15:55
  */
 
 package controllers
@@ -53,10 +53,14 @@ func init() {
 		panic(err)
 	}
 
-	err = json.Unmarshal(content, &conf)
-	if err != nil {
-		panic(err)
-	}
+	// change for heroku deployment
+	conf.DbURI = os.Getenv("MONGO_URL")
+	conf.DbName = os.Getenv("MDB_NAME")
+
+	// err = json.Unmarshal(content, &conf)
+	// if err != nil {
+	// 	panic(err)
+	// }
 }
 
 //
